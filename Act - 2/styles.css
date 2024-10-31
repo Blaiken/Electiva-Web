@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial';
+    background-color: rgba(114, 186, 186, 0.701);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: rgb(218, 140, 57);
+    color: white;
+    padding: 5px ;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    border-bottom: 5px solid rgba(186, 115, 38, 0.8);
+}
+
+.principal {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+.panel {
+    padding: 20px;
+    background: rgb(255, 254, 254, 0.8);
+    border-radius: 10px;
+}
+
+.titulo-principal {
+    font-family: 'Times New Roman';
+}
+
+.subtitulo-obras {
+    font-family: 'Times New Roman';
+}
+
+.mashima-img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.footer {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 14px;
+    color: #777;
+}
